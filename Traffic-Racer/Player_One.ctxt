@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Player_One
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Player_One\ here.\r\n\ \r\n\ @author\ (Diego)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=v
+comment1.target=Player_One(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkCollision()
+comment4.params=
+comment4.target=void\ aumenta_velocidad()
+numComments=5
